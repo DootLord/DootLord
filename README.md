@@ -1,0 +1,4 @@
+- 👋 Heyo! My name is Shaun Porter.
+- 👀 I'm interested in learning all kinds of languages, but I hope to start getting into MEAN stack!
+- 🌱 I'm currently working in PHP for professional purposes, but I use NodeJS for all my personal projects.
+- 💞️ I’m looking to get involved in whatever I can, I'm available to look at whatever you're currently getting busy with and I'll see what I can to do help!
